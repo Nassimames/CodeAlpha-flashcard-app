@@ -1,7 +1,7 @@
 # Flashcards
 
 Flutter flashcards app with a Node.js/Express API and SQLite persistence for
-user-created decks and their flashcards.
+user-created decks and their flashcards..
 
 The bundled **Docker & DevOps** revision deck covers Docker fundamentals,
 Dockerfiles, images, containers, networking, storage, Compose, security,
